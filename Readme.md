@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [DemoNavBarStyle.xaml](./CS/DemoNavBarStyle.xaml) (VB: [DemoNavBarStyle.xaml](./VB/DemoNavBarStyle.xaml))
-* [Window1.xaml](./CS/Window1.xaml) (VB: [Window1.xaml.vb](./VB/Window1.xaml.vb))
+* [Window1.xaml](./CS/Window1.xaml) (VB: [Window1.xaml](./VB/Window1.xaml))
 * [Window1.xaml.cs](./CS/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/Window1.xaml.vb))
 <!-- default file list end -->
 # Alternative theme for the ExplorerBar view
